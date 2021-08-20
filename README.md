@@ -21,5 +21,8 @@
 7. Hurray! That's it!
  
  ## Output
+ ## Light Mode
+<img src="https://user-images.githubusercontent.com/60843507/130256704-b6d16ca6-5be9-4764-96ec-85ae0741f79b.PNG">
  
-<img src="https://user-images.githubusercontent.com/60843507/128994327-380b73e4-598e-4289-bd82-c92536511267.PNG">
+ ## Dark Mode
+<img src="https://user-images.githubusercontent.com/60843507/130256722-989c5326-db34-4ed8-9037-606443a138f9.PNG">
