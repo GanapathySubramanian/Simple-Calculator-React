@@ -51,7 +51,7 @@
   
   footer p {
     color: #ccc;
-    margin-top:5%;
+    margin-top:2%;
   }
   .calc {
     background: #eee;
@@ -60,8 +60,7 @@
     padding: 10px;
     width: 320px;
     margin:auto;
-    margin-top:12%;
-    margin-bottom: 5%;
+    margin-top:6%;
   }
   .calc.dark{  
   background:#f8f8f8;
@@ -70,10 +69,8 @@
   padding: 10px;
   width: 320px;
   margin:auto;
-  margin-top:12%;
-  margin-bottom: 5%;
+  margin-top:6%;
   }
-  
  td{
    padding: 10px;
  }
