@@ -1,5 +1,6 @@
 # Simple-Calculator-React
 
+Live Demo : [Visit](https://wonderful-golick-11bf28.netlify.app/)
 
 ## Prerequisites
 1. Install NODE JS using the link https://nodejs.org/en/ 
